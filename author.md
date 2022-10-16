@@ -1,1 +1,3 @@
-- SadMilk
+## Author
+
+[Author](author.md)
